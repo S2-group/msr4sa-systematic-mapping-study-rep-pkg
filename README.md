@@ -16,7 +16,7 @@ For any information, interested researchers can contact us by sending an email t
 ## Repository Structure
 The directory is structured as follows:
 
-````
+```
 scripts/dblp_search.py          Script for initial paper crawling.
 data/studies_selection.csv      Spreadsheet with the alld the studies.
 data/thematic_analysis.csv      Spreadsheet with the thematic analysis.
