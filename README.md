@@ -20,7 +20,7 @@ The directory is structured as follows:
 data/studies_selection.csv      Spreadsheet with the alld the studies.
 data/thematic_analysis.csv      Spreadsheet with the thematic analysis.
 data/graph_generation.xlsx      Spreadsheet used for graph generation.
-                                Which is also available [here](https://docs.google.com/spreadsheets/d/1VIQ__Gc9DMExdK1WsOcTba9L-RM6OdnHXr5lc-DzC2Y/edit?usp=sharing).
+                                Which is also available [online](https://docs.google.com/spreadsheets/d/1VIQ__Gc9DMExdK1WsOcTba9L-RM6OdnHXr5lc-DzC2Y/edit?usp=sharing).
 ```
 
 ----
