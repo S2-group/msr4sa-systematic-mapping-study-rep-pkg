@@ -1,0 +1,388 @@
+Paper Name,Link,Year,Venue
+A Software Architecture Reconstruction Method,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-0-387-35563-4_2,1999,WICSA
+Evolution and Composition of Reusable Assets in Product-Line Architectures: A Case Study,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-0-387-35563-4_18,1999,WICSA
+"A highly-extensible, XML-based architecture description language",https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/948416,2001,WICSA
+Understanding and Propagating Architectural Changes,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-0-387-35607-5_6,2002,WICSA
+Software Architecture: The Next Step,https://www.researchgate.net/publication/221105839_Software_Architecture_The_Next_Step,2004,ECSA
+Preprocessing CVS data for fine-grained analysis,https://digital-library.theiet.org/content/conferences/10.1049/ic_20040466,2004,MSR
+Symphony: view-driven software architecture reconstruction,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/1310696,2004,WICSA
+Software Architecture as a Set of Architectural Design Decisions,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/1620096,2005,WICSA
+What Architects Should Know About Reverse Engineering and Rengineering,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/1620085,2005,WICSA
+Buiding Up and Reasoning About Architectural Knowledge,https://www.researchgate.net/publication/226149705_Building_Up_and_Reasoning_About_Architectural_Knowledge,2006,QoSA
+Leveraging Architecture Patterns to Satisfy Quality Attributes,https://www.researchgate.net/publication/30497028_Leveraging_Architecture_Patterns_to_Satisfy_Quality_Attributes,2007,ECSA
+Recommending Emergent Teams,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/4228642,2007,MSR
+How Long WIll It Take to Fix This Bug?,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/4228638,2007,MSR
+Reusable Architectural Decision Models for Enterprise Application Development,https://www.researchgate.net/publication/37685827_N_Reusable_Architectural_Decision_Models_for_Enterprise_Application_Development,2007,QoSA
+A Comparison of Static Architecture Compliance Checking Approaches,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/4077029,2007,WICSA
+Architectural Knowledge: Getting to the Core,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-540-77619-2_12?noAccess=true,2007,QoSA
+Architecture Assessment Model for System Evolution,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/4077025,2007,WICSA
+Towards a Method for the Evaluation of Reference Architectures: Experiences from a Case,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-540-88030-1_17,2008,ECSA
+Analyzing the evolution of eclipse plugins,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/1370750.1370783,2008,MSR
+What do large commits tell us?: a taxonomical study of large commits,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/1370750.1370773,2008,MSR
+Small patches get in!,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/1370750.1370767,2008,MSR
+Towards Automated Solution Synthesis and Rationale Capture in Decision-Centric Architecture Design,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/4459160,2008,WICSA
+Design Reasoning Improves Software Design Quality,https://www.researchgate.net/publication/221146395_Design_Reasoning_Improves_Software_Design_Quality,2008,QoSA
+Coordination implications of software architecture in a global software development project,https://www-sciencedirect-com.proxy-ub.rug.nl/science/article/pii/S0164121210001330?via%3Dihub,2008,WICSA
+Analysis of Architecture Pattern Usage in Legacy System Architecture Documentation,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/4459153,2008,WICSA
+The promises and perils of mining git,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5069475,2009,MSR
+Achieving Agility through Architecture Visibility,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-642-02351-4_8,2009,QoSA
+Evolving Industrial Software Architectures into a Software Product Line: A Case Study,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-642-02351-4_12,2009,QoSA
+Lightweight and continuous architectural software quality assurance using the aSQA technique,https://dl-acm-org.proxy-ub.rug.nl/doi/10.5555/1887899.1887912,2010,ECSA
+Automated Detection of Least Privilege Violations in Software Architectures,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-642-15114-9_13,2010,ECSA
+Integrating Requirements and Design Decisions in Architecture Representation,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-642-15114-9_9,2010,ECSA
+An extensive comparison of bug prediction approaches,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5463279,2010,MSR
+Reference Architecture and Product Line Architectures: A Subtle But Critical Difference,https://www.researchgate.net/publication/299493620_Reference_Architecture_and_Product_Line_Architecture_A_Subtle_But_Critical_Difference,2011,ECSA
+A Constructive Approach to Compositional Architecture Design,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-642-23798-0_8,2011,ECSA
+Automatic Tracing of Decisions to Architecture and Implementation,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5959698,2011,WICSA
+Software Architecture Documentation: The Road Ahead,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5959778,2011,WICSA
+Towards a Solution for Change Impact Analysis of Software Product Line Products,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5959729,2011,WICSA
+An Architectural Approach to Support Online Updates of Software Product Lines,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5959692,2011,WICSA
+Analysis and Management of Architectural Dependencies in Iterative Release Planning,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5959724?reload=true,2011,WICSA
+Handling Variability in Software Architecture: Problems and Implications,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/5959688,2011,WICSA
+Quantifying the Analyzability of Software Architectures,https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/5959722/citations#citations,2011,WICSA
+A qualitative study on performance bugs,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6224281,2012,MSR
+A Linked Data platform for mining software repositories,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6224296,2012,MSR
+Mining challenge 2012: The Android platform,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6224307,2012,MSR
+GHTorrent: Github's data from a firehose,https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/6224294,2012,MSR
+Supporting Concistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations,https://www.researchgate.net/publication/259921782_Supporting_Consistency_between_Architectural_Design_Decisions_and_Component_Models_through_Reusable_Architectural_Knowledge_Transformations,2013,ECSA
+Making the Right Decision: Supporting Architects with Design Decision Data,https://www.researchgate.net/publication/257549636_Making_the_Right_Decision_Supporting_Architects_with_Design_Decision_Data,2013,ECSA
+Classification of design decisions: an expert survey in practice,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1007/978-3-642-39031-9_12,2013,ECSA
+Towards Continuous Reference Architecture Conformance Analysis ,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-642-39031-9_32,2013,ECSA
+Team Situational Awareness and Architectural Decision Making with the Software Architecture Warehouse,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-642-39031-9_13,2013,ECSA
+"Discovering, reporting, and fixing performance bugs",https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6624035,2013,MSR
+Encouraging user behabiour with achievements: An empirical study,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6624007,2013,MSR
+An exploratory analysis of mobile development issues using stack overflow,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6624014,2013,MSR
+Mining succint and high-coverage API usage patterns from source code,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6624045,2013,MSR
+Will my patch make it? And how fast? Case study on the Linux kernel,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6624016,2013,MSR
+A contextual approach towards more accurate duplicate bug report detection,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6624026,2013,MSR
+"The Maven repository dataset of metrics, changes, and dependencies",https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6624031,2013,MSR
+Leveraging design rules to improve software architecture recovery,https://dl-acm-org.proxy-ub.rug.nl/doi/abs/10.1145/2465478.2465480,2013,QoSA
+Service Development and Architecture Management for an Enterprise SOA,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-319-09970-5_17,2014,ECSA
+Green Architectural Tactics for the Cloud,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6827097,2014,ICSA
+Industrial Implementation of a Documentation Framework for Architectural Decisions,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6827122,2014,ICSA
+The Supportive Effect of Traceability Links in Architecture-Level Software Understanding: Two Controlled Experiments,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6827121,2014,ICSA
+Towards an Evidence-Based Understanding of Emergence of Architecture through Continuous Refactoring in Agile Software Development,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/6827119,2014,ICSA
+Automatic Reference Architecture Conformance Checking for SOA-Based Software Systems,https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/6827106,2014,ICSA
+GreenMiner: A hardware based mining software repositories software energy consumption framework,https://www.researchgate.net/publication/266657940_GreenMiner_A_hardware_based_mining_software_repositories_software_energy_consumption_framework,2014,MSR
+Mining questions about software energy consumption,https://www.researchgate.net/publication/266657796_Mining_questions_about_software_energy_consumption,2014,MSR
+"The impact of code review coverage and code review participation on software quality: a case study of the qt, VTK, and ITK projects",https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/2597073.2597076,2014,MSR
+Modern code reviews in open-source projects: which problems do they fix?,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/2597073.2597082,2014,MSR
+Architectural bad smells in Software Product Lines: An exploratory study,https://www.researchgate.net/publication/262292735_Architectural_bad_smells_in_Software_Product_Lines_An_exploratory_study,2014,WICSA
+An Empirical Investigation of Modularity Metrics for Indicating Archiectural Technical Debt,https://www.researchgate.net/publication/261683543_An_Empirical_Investigation_of_Modularity_Metrics_for_Indicating_Architectural_Technical_Debt,2014,QoSA
+Guidelines and Metrics for Configurable and Sustainable Architectural Knowledge Modeling,https://www.researchgate.net/publication/280839981_Guidelines_and_Metrics_for_Configurable_and_Sustainable_Architectural_Knowledge_Modelling,2015,ECSA
+Exploiting Traceability Uncertainty Between Software Architectural Models and Performance Analysis Results,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-319-23727-5_26,2015,ECSA
+Revisiting Architectural Tactics for Security,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-319-23727-5_5,2015,ECSA
+Going Green: An Exploratory Analysis of Energy-Related Questions,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180107,2015,MSR
+Mining Energy-Aware Commits,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180067,2015,MSR
+An Empirical Study of Architectural Change in Open-Source Software Systems,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180083,2015,MSR
+Do Bugs Foreshadow Vulnerabilities? A Study of the Chromium Project,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180086,2015,MSR
+A Novel Industry Grade Dataset for Fault Prediction Based on Model-Driven Developed Automotive Embedded Software,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180126,2015,MSR
+Mining StackOverflow to Filter Out Off-Topic IRC Discussion ,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180108,2015,MSR
+A study on the role of software architecture in the evolution and quality of software,https://dl-acm-org.proxy-ub.rug.nl/doi/10.5555/2820518.2820548,2015,MSR
+"Modifications, Tweaks, and Bug Fixes in Architectural Tactics",https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180098/citations#citations,2015,MSR
+A Data Set for Social Diversity Studies of GitHub Teams,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7180131,2015,MSR
+Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7158503,2015,WICSA
+Enriching Architecture Knowledge with Technology Design Decisions,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7158515,2015,WICSA
+Architecture Knowledge for Evauluating Scalable Databases,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7158508,2015,WICSA
+On Architectural Qualities and Tactics for Mobile Sensing,https://www.researchgate.net/publication/272792842_On_Architectural_Qualities_and_Tactics_for_Mobile_Sensing,2015,QoSA
+A Catalog of Architectural Tactics for Cyber-Foraging,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/2737182.2737188,2015,QoSA
+A Conversation Based Approach for Modeling REST APIs,https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/7158518,2015,WICSA
+Proactive Detection of Higher-Order Software Design Conflicts,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7158517,2015,WICSA
+A Study on Architectural Decision-Making in Context,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7158499,2015,WICSA
+A Long Way to Quality-Driven Pattern-Based Architecting,https://www.researchgate.net/publication/309638977_A_Long_Way_to_Quality-Driven_Pattern-Based_Architecting,2016,ECSA
+Architecture Modeling and Analysis of Security in Android Systems,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-319-48992-6_21,2016,ECSA
+Design Decision Documentation: A Literature Overview,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-319-48992-6_6,2016,ECSA
+Inferring Architectural Evolution from Source Code Analysis,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-319-48992-6_11,2016,ECSA
+Using Hypergraph Clustering for Software Architecture Reconstruction of Data-Tier Software ,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-319-48992-6_24,2016,ECSA
+Does your configuration code smell?,https://www.researchgate.net/publication/303413552_Does_your_configuration_code_smell,2016,MSR
+Characterizing Energy-Aware Software Projects: Are They Different?,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7832937,2016,MSR
+Mining Duplicate Questions of Stack Overflow,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7832919,2016,MSR
+FEVER: Extracting Feature-oriented Changes from Commits,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7832889,2016,MSR
+Relating Architectural Decay and Sustainability of Software Systems,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516827,2016,WICSA
+Architectural Knowledge for Technology Decisions in Developer Communities: An Exploratory Study with StackOverflow,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516820,2016,WICSA
+Automated Extraction of Rich Software Models from Limited System Information,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516816,2016,WICSA
+Software Architecture Pattern Morphology in Open-Source Systems,https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/7516815,2016,WICSA
+Improving Testing in an Enterprise SOA with an Architecture-Based Approach,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516833,2016,WICSA
+An Experience Report on Detecting and Repairing Software Architecture Erosion,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516808,2016,WICSA
+Towards an Architecture-Centric Approach to Security Analysis,https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/7516832,2016,WICSA
+Empirical Research in Software Architecture: How Far have We Come?,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516807,2016,WICSA
+Context-Based Architectural Security Analysis,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516846,2016,WICSA
+Mining Software Component Interactions to Detect Security Threats at the Architectural Level,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7516831,2016,WICSA
+Automatic Extraction of Design Decisions from Issue Management Systems: A Machine Learning Based Approach,https://www.researchgate.net/publication/319105976_Automatic_Extraction_of_Design_Decisions_from_Issue_Management_Systems_A_Machine_Learning_Based_Approach,2017,ECSA
+Towards a framework for managing architectural design decisions,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3129790.3129799,2017,ECSA
+Towards a practical maintainability quality model for service- and microservice-based systems,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3129790.3129816,2017,ECSA
+Experiments in Curation: Towards Machine-Assisted Construction of Software Architecture Knowledge Bases,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7930202,2017,ICSA
+Developing an Ontology for Architecture Knowledge from Developer Communities,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7930203,2017,ICSA
+"Understanding Software Vulnerabilities Related to Architectural Security Tactics: An Empirical Investigation of Chromium, PHP and Thunderbird",https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7930201,2017,ICSA
+On the Understandability of Semantic Constraints for Behavioral Software Architecture Compliance: A Controlled Experiment,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7930212,2017,ICSA
+What to Fix? Distinguishing between Design and Non-design Rules in Automated Tools,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7930213,2017,ICSA
+Human Aspects in Software Architecture Decision Making: A Literature Review,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7930206,2017,ICSA
+An Extensive Dataset of UML Models in GitHub,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7962411,2017,MSR
+On the Interplay between Non-Functional Requirements and Builds on Continuous Integration,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/7962401,2017,MSR
+Identifying and Prioritizing Architectural Debt Through Architectural Smells: A Case Study in a Large Software Company,https://www.researchgate.net/profile/Riccardo-Roveda/publication/327649135_Identifying_and_Prioritizing_Architectural_Debt_Through_Architectural_Smells_A_Case_Study_in_a_Large_Software_Company_12th_European_Conference_on_Software_Architecture_ECSA_2018_Madrid_Spain_September/links/5c32765ea6fdccd6b59852fc/Identifying-and-Prioritizing-Architectural-Debt-Through-Architectural-Smells-A-Case-Study-in-a-Large-Software-Company-12th-European-Conference-on-Software-Architecture-ECSA-2018-Madrid-Spain-Septe.pdf?origin=publication_detail,2018,ECSA
+A Catalogue of Architectural Decisions for Designing IIoT Systems,https://www.researchgate.net/publication/327648050_A_Catalogue_of_Architectural_Decisions_for_Designing_IIoT_Systems_12th_European_Conference_on_Software_Architecture_ECSA_2018_Madrid_Spain_September_24-28_2018_Proceedings,2018,ECSA
+Uncertainty expressions in software architecture group decision making: explorative study,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3241403.3241447,2018,ECSA
+A Platform for the Automated Provisioning of Architecture Information for Large-Scale Service-Oriented Software Systems,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-00761-4_14,2018,ECSA
+Software Architecture Measurement--Experiences from a Multinational Company,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-00761-4_20,2018,ECSA
+An Empirical Study of Architectural Decay in Open-Source Software,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8417151,2018,ICSA
+Improving the Search for Architecture Knowledge in Online Developer Communitities,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8417152,2018,ICSA
+Recovering Architectural Design Decisions,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8417122,2018,ICSA
+An Expert Recommendation System for Design Decision Making: Who Should be Involved in Making a Design Decision,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8417121,2018,ICSA
+Towards Micro Service Architecture Recovery: An Empirical Study,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8417116,2018,ICSA
+Evaluating how developers use general-purpose web-search for code retrieval,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3196398.3196425,2018,MSR
+Toward Predicting Architectural Significance of Implementation Issues,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8595204,2018,MSR
+CROP: Linking Code Reviews to Source Code Changes,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8595176,2018,MSR
+An Empirical Evaluation of OSGI Dependencies Best Practices in the Eclipse IDE,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8595200,2018,MSR
+SOTorrent: reconstructing and analyzing the evolution of stack overflow posts,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3196398.3196430,2018,MSR
+Guiding Architectural Decision Making on Service Mesh Based Microservice Architectures,https://www.researchgate.net/publication/335551070_Guiding_Architectural_Decision_Making_on_Service_Mesh_Based_Microservice_Architectures,2019,ECSA
+What Quality Attributes Can We Find in Product Backlogs? A Machine Learning Perspective,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-29983-5_6,2019,ECSA
+Tool Support for the Migration to Microservice Architecture: An Industrial Case Study,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-29983-5_17,2019,ECSA
+Semi-automatic mapping of source code using naive Bayes,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3344948.3344984,2019,ECSA
+PageRank and criticality of architecture smells,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3344948.3344982,2019,ECSA
+How Developers Discuss Architecture Smells? An Exploratory Study on Stack Overflow,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8703915,2019,ICSA
+An Architectural View for Data Protection by Design,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8703923,2019,ICSA
+Continuous Architecture: Towards the Goldilocks Zone and Away from Vicious Circles,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8703921,2019,ICSA
+Architectural Security Weaknesses in Industrial Control Systems (ICS) an Empirical Study Based on Disclosed Software Vulnerabilities,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8703918,2019,ICSA
+We Need to Talk About Microservices: An Analysis from the Discussions on StackOverflow,https://alanpbandeira.github.io/stackoverservices/,2019,MSR
+"SOTorrent: Studying the Origin, Evolution, and Usage of Stack Overflow Code Snippets",https://www.researchgate.net/publication/327570211_SOTorrent_Studying_the_Origin_Evolution_and_Usage_of_Stack_Overflow_Code_Snippets,2019,MSR
+Investigating Next Steps in Static API-Misuse Detection,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8816795,2019,MSR
+Standing on Shoulders or Feet? The Usage of the MSR Data Papers,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/8816806,2019,MSR
+An initial Study on the Association Between Architectural Smells and Degradation,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-58923-3_13,2020,ECSA
+Collecting Service-Based Maintainability Metrics from RESTful API Descriptions: Static Analysis and Threshold Derivation,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-59155-7_16,2020,ECSA
+Assessing Architecture Conformance to Coupling-Related Patterns and Practices in Microservices,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-58923-3_1,2020,ECSA
+Optimizing Parametric Dependencies for Incremental Performance Model Extraction,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-59155-7_17,2020,ECSA
+The Evolution of Architectural Decision Making as a Key Focus Area of Software Architecture Research: A Semi-Systematic Literature Study,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9101319,2020,ICSA
+Strategies for Pattern-Based Detection of Architecturally-Relevant Software Vulnerabilities,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9101224/references#references,2020,ICSA
+Incremental Calibration of Architectural Performance Models with Parametric Dependencies,https://www-computer-org.proxy-ub.rug.nl/csdl/proceedings-article/icsa/2020/465900a023/1kaMwqAfywM,2020,ICSA
+DesignDiff: Continuously Modeling Software Design Difference from Code Revisions,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9101195/citations#citations,2020,ICSA
+Behind the Intents: An In-depth Empirical Study on Software Refactoring in Modern Code Review,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3379597.3387475,2020,MSR
+Painting Flowers: Reasons for Using Single-State State Machines in Model-Driven Engineering,https://dl-acm-org.proxy-ub.rug.nl/doi/10.1145/3379597.3387452,2020,MSR
+Software Architecture,https://link-springer-com.proxy-ub.rug.nl/book/10.1007/978-3-030-86044-8,2021,ECSA
+An Exploratory Study on Architectural Knowledge in Issue Tracking Systems,https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-86044-8_8,2021,ECSA
+Semi-automatic Feedback for Improving Architecture Conforance to Microservice Patterns and Practices,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9426761,2021,ICSA
+Architectural Decay as Predictor of Issue- and Change-Proneness,https://ieeexplore-ieee-org.proxy-ub.rug.nl/stamp/stamp.jsp?arnumber=9426752,2021,ICSA
+Constructing a Shared Infrastructure for Software Architecture Analysis and Maintenance,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9426737,2021,ICSA
+ArCode: Facilitating the Use of Application Frameworks to Implement Tactics and Patterns,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9426773,2021,ICSA
+Enabling Consistency between Software Artefacts for Software Adaption and Evolution,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9426765,2021,ICSA
+Architecture Smells and Pareto Principle: A Preliminary Empirical Exploration,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9463110,2021,MSR
+Mining Energy-Related Practices in Robotics Software,https://www.researchgate.net/publication/350398147_Mining_Energy-Related_Practices_in_Robotics_Software,2021,MSR
+An Empirical Study of Developer Discussions on Low-Code Software Development Challenges,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9463132,2021,MSR
+Challenges in Developing Desktop Web Apps: a Study of Stack Overflow and Github,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9463138,2021,MSR
+Single-state state machines in model-driven software engineering: an exploratory study,https://link-springer-com.proxy-ub.rug.nl/article/10.1007/s10664-021-10015-3,2021,MSR
+How Do Developers Search for Architectural Information? An Industrial Survey,https://www.researchgate.net/publication/357190801_How_Do_Developers_Search_for_Architectural_Information_An_Industrial_Survey,2022,ICSA
+Evaluation Methods and Replicability of Software Architecture Research Objects,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9779698,2022,ICSA
+ROSDiscover: Statically Detecting Run-Time Architecture Misconfigurations in Robotics Systems,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9779703,2022,ICSA
+Leveraging the Layered Architecture for Microservice Recovery,https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/9779690,2022,ICSA
+Architectural Attack Propagation Analysis for Identifying Confidentiality Issues,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a001/1DDCrxWsrde,2022,ICSA
+Symptoms of Architecture Erosion in Code Reviews: A Study of Two OpenStack Projects,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a024/1DDCsCQXXe8,2022,ICSA
+Tool-Assisted Componentization of Java Applications,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a036/1DDCpYMfzG0,2022,ICSA
+A Study on the Software Architecture Documentation Practices and Maturity in Open-Source Software Development,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a047/1DDCsiTW4mY,2022,ICSA
+How Do Developers Search for Architectural Information? An Industrial Survey,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a058/1DDCpFj1ztC,2022,ICSA
+Designing Microservice Systems Using Patterns: An Empirical Study on Quality Trade-Offs,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a069/1DDCqG1wwlq,2022,ICSA
+Effort Estimation for Architectural Refactoring of Data Tier Software,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a080/1DDCrQ4enaE,2022,ICSA
+Architectural Design Decisions for Machine Learning Deployment,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a090/1DDCpcusgNy,2022,ICSA
+Using Gossip Enabled Distributed Circuit Breaking for Improving Resiliency of Distributed Systems,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a013/1DDCrYz3SAo,2022,ICSA
+Untangling the Knot: Enabling Architecture Evolution with Search-Based Refactoring,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a101/1DDCqgDhaXC,2022,ICSA
+ROSDiscover: Statically Detecting Run-Time Architecture Misconfigurations in Robotics Systems,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a112/1DDCrotJzlS,2022,ICSA
+Designing Internet of Behaviors Systems,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a124/1DDCs9neOGI,2022,ICSA
+Leveraging the Layered Architecture for Microservice Recovery,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a135/1DDCsuqXD1u,2022,ICSA
+Architectural Refactoring for Functional Properties in Evolutionary Architecture,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a146/1DDCq8oUp5C,2022,ICSA
+Evaluation Methods and Replicability of Software Architecture Research Objects,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a157/1DDCqozc1nq,2022,ICSA
+ROUTE: A Framework for Customizable Smart Mobility Planners,https://www.computer.org/csdl/proceedings-article/icsa/2022/172800a169/1DDCqZlFmnK,2022,ICSA
+An Empirical Evaluation of GitHub Copilot's Code Suggestions,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a001/1Eo63NmgjG8,2022,MSR
+BotHunter: An Approach to Detect Software Bots in GitHub,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a006/1Eo5WVyOOnS,2022,MSR
+Comments on Comments: Where Code Review and Documentation Meet,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a018/1Eo5Z169iFi,2022,MSR
+Does This Apply to Me? An Empirical Study of Technical Context in Stack Overflow,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a023/1Eo63VEBtn2,2022,MSR
+Towards Reliable Agile Iterative Planning via Predicting Documentation Changes of Work Items,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a035/1Eo5Zz5KVsk,2022,MSR
+Beyond Duplicates: Towards Understanding and Predicting Link Types in Issue Tracking Systems,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a048/1Eo5Ucf5ITS,2022,MSR
+"Smelly Variables in Ansible Infrastructure Code: Detection, Prevalence, and Lifetime",https://www.computer.org/csdl/proceedings-article/msr/2022/930300a061/1Eo5UViudWM,2022,MSR
+An Alternative Issue Tracking Dataset of Public Jira Repositories,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a073/1Eo5VFvpDLW,2022,MSR
+Geographic Diversity in Public Code Contributions: An Exploratory Large-Scale Study Over 50 Years,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a080/1Eo632KDNxm,2022,MSR
+Operationalizing Threats to MSR Studies by Simulation-Based Testing,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a086/1Eo5SZNmsMM,2022,MSR
+The General Index of Software Engineering Papers,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a098/1Eo63FvsfBu,2022,MSR
+Challenges and Future Research Direction for Microtask Programming in Industry,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a103/1Eo5UsB0Twk,2022,MSR
+Starting the InnerSource Journey: Key Goals and Metrics to Measure Collaboration,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a105/1Eo5OPd4z8Q,2022,MSR
+An Exploratory Study on Refactoring Documentation in Issues Handling,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a107/1Eo5Xd7oudi,2022,MSR
+Between JIRA and GitHub: ASFBot and its Influence on Human Comments in Issue Trackers,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a112/1Eo5QvjjIJO,2022,MSR
+Is Refactoring Always a Good Egg? Exploring the Interconnection Between Bugs and Refactorings,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a117/1Eo5V6zTQrK,2022,MSR
+On the Co-Occurrence of Refactoring of Test and Source Code,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a122/1Eo5RKIpQSA,2022,MSR
+Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and Refactoring,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a127/1Eo5NJg86Bi,2022,MSR
+Studying the Impact of Continuous Delivery Adoption on Bug-Fixing Time in Apache's Open-Source Projects,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a132/1Eo5PGBmC3e,2022,MSR
+Which bugs are missed in code reviews: An empirical study on SmartSHARK dataset,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a137/1Eo5UChmvCM,2022,MSR
+Empirical Standards for Repository Mining,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a142/1Eo5PyLGWuQ,2022,MSR
+Dazzle: Using Optimized Generative Adversarial Networks to Address Security Data Class Imbalance Issue,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a144/1Eo5PXjI5WM,2022,MSR
+How to Improve Deep Learning for Software Analytics (a case study with code smell detection),https://www.computer.org/csdl/proceedings-article/msr/2022/930300a156/1Eo61KsZYA0,2022,MSR
+To What Extent do Deep Learning-based Code Recommenders Generate Predictions by Cloning Code from the Training Set?,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a167/1Eo643Kshl6,2022,MSR
+Searching for High-Fidelity Builds Using Active Learning,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a179/1Eo5SQFVvGg,2022,MSR
+ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a191/1Eo61fGWmek,2022,MSR
+ReCover: a Curated Dataset for Regression Testing Research,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a196/1Eo5ZiuvpOo,2022,MSR
+Mining the Ethereum Blockchain Platform: Best Practices and Pitfalls (MSR 2022 Tutorial),https://www.computer.org/csdl/proceedings-article/msr/2022/930300a201/1Eo5S7XfJ84,2022,MSR
+Mining the Usage of Reactive Programming APIs: A Study on GitHub and Stack Overflow,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a203/1Eo5RySnavK,2022,MSR
+Painting the Landscape of Automotive Software in GitHub,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a215/1Eo5UlzAdZm,2022,MSR
+DISCO: A Dataset of Discord Chat Conversations for Software Engineering Research,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a227/1Eo5OoCaIy4,2022,MSR
+Inspect4py: A Knowledge Extraction Framework for Python Code Repositories,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a232/1Eo5XPR4xLa,2022,MSR
+SLNET: A Redistributable Corpus of 3rd-party Simulink Models,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a237/1Eo5YDZgc3C,2022,MSR
+SoCCMiner: A Source Code-Comments and Comment-Context Miner,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a242/1Eo5XIbU21a,2022,MSR
+SOSum: A Dataset of Stack Overflow Post Summaries,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a247/1Eo5OyCXs1a,2022,MSR
+An Empirical Study on Maintainable Method Size in Java,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a252/1Eo63xTGVqg,2022,MSR
+Characterizing High-Quality Test Methods: A First Empirical Study,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a265/1Eo618OjfJm,2022,MSR
+CLIP meets GamePhysics: Towards bug identification in gameplay videos using zero-shot transfer learning,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a270/1Eo5SoZt888,2022,MSR
+Complex Python Features in the Wild,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a282/1Eo5TOmw0rm,2022,MSR
+ManyTypes4TypeScript: A Comprehensive TypeScript Dataset for Sequence-Based Type Inference,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a294/1Eo5RgO0q76,2022,MSR
+METHODS2TEST: A dataset of focal methods mapped to test cases,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a299/1Eo60htqonK,2022,MSR
+npm-filter: Automating the mining of dynamic information from npm packages,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a304/1Eo5PPlwsus,2022,MSR
+How heated is it? Understanding GitHub locked issues,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a309/1Eo5O72Kfks,2022,MSR
+On the Violation of Honesty in Mobile Apps: Automated Detection and Categories,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a321/1Eo63pi32SY,2022,MSR
+Exploring Apache Incubator Project Trajectories with APEX,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a333/1Eo5X3wrfA4,2022,MSR
+The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a338/1Eo62EvmaFG,2022,MSR
+The Unexplored Treasure Trove of Phabricator Code Reviews,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a343/1Eo64rxDCko,2022,MSR
+"The Unsolvable Problem or the Unheard Answer? A Dataset of 24,669 Open-Source Software Conference Talks",https://www.computer.org/csdl/proceedings-article/msr/2022/930300a348/1Eo5TiKec9O,2022,MSR
+A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a353/1Eo5TqModr2,2022,MSR
+An Empirical Study on the Survival Rate of GitHub Projects,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a365/1Eo5YoGladW,2022,MSR
+Do Customized Android Frameworks Keep Pace with Android?,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a376/1Eo64kMo5d6,2022,MSR
+DaSEA - A Dataset for Software Ecosystem Analysis,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a388/1Eo5WevKCje,2022,MSR
+"Dataset: Dependency Networks of Open Source Libraries Available Through CocoaPods, Carthage and Swift PM",https://www.computer.org/csdl/proceedings-article/msr/2022/930300a393/1Eo5VWjr6gM,2022,MSR
+Lupa: A Framework for Large Scale Analysis of the Programming Language Usage,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a398/1Eo610rI75u,2022,MSR
+GitDelver Enterprise Dataset (GDED): An Industrial Closed-source Dataset for Socio-Technical Research,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a403/1Eo626rMa3K,2022,MSR
+SniP: An Efficient Stack Tracing Framework for Multi-threaded Programs,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a408/1Eo5S08Is5W,2022,MSR
+Tooling for Time- and Space-efficient git Repository Mining,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a413/1Eo600NUTMQ,2022,MSR
+TSSB-3M: Mining single statement bugs at massive scale,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a418/1Eo62NqRYju,2022,MSR
+LibDB: An Effective and Efficient Framework for Detecting Third-Party Libraries in Binaries,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a423/1Eo5YTSehpu,2022,MSR
+Noisy Label Learning for Security Defects,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a435/1Eo5WETjjMY,2022,MSR
+WeakSATD: Detecting Weak Self-admitted Technical Debt,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a448/1Eo61oVbGso,2022,MSR
+AndroOBFS: Time-tagged Obfuscated Android Malware Dataset with Family Information,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a454/1Eo5Wpsrwju,2022,MSR
+TriggerZoo: A Dataset of Android Applications Automatically Infected with Logic Bombs,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a459/1Eo6084ojde,2022,MSR
+Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a464/1Eo63bIHZlK,2022,MSR
+Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a469/1Eo5Q7K2J7G,2022,MSR
+Does Configuration Encoding Matter in Learning Software Performance? An Empirical Study on Encoding Schemes,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a482/1Eo62eRdi0g,2022,MSR
+Multimodal Recommendation of Messenger Channels,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a495/1Eo5Y0SSe6A,2022,MSR
+On the Naturalness of Fuzzer-Generated Code,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a506/1Eo62q06WBi,2022,MSR
+Senatus - A Fast and Accurate Code-to-Code Recommendation Engine,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a511/1Eo5QmYHM0o,2022,MSR
+GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a524/1Eo5XtzyPHa,2022,MSR
+Do Small Code Changes Merge Faster? A Multi-Language Empirical Investigation,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a537/1Eo5ZPHi2ek,2022,MSR
+FaST: A linear time stack trace alignment heuristic for crash report deduplication,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a549/1Eo5OXc6ZZm,2022,MSR
+Is Open Source Eating the World's Software? Measuring the Proportion of Open Source in Proprietary Software Using Java Binaries,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a561/1Eo5T86gOJO,2022,MSR
+Methods for Stabilizing Models Across Large Samples of Projects (with case studies on Predicting Defect and Project Health),https://www.computer.org/csdl/proceedings-article/msr/2022/930300a566/1Eo5TWZRtL2,2022,MSR
+Mining Code Review Data to Understand Waiting Times Between Acceptance and Merging: An Empirical Analysis,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a579/1Eo61Z72LGo,2022,MSR
+TwinDroid: A Dataset of Android app System call traces and Trace Generation Pipeline,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a591/1Eo5RpwsFLW,2022,MSR
+LineVD: Statement-level Vulnerability Detection using Graph Neural Networks,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a596/1Eo5NR4WYLu,2022,MSR
+LineVul: A Transformer-based Line-Level Vulnerability Prediction,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a608/1Eo5YwcZI40,2022,MSR
+On the Use of Fine-grained Vulnerable Code Statements for Software Vulnerability Assessment Models,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a621/1Eo5R8AurDi,2022,MSR
+ECench: An Energy Bug Benchmark of Ethereum Client Software,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a634/1Eo5VeXDnBS,2022,MSR
+Microsoft CloudMine: Data Mining for the Executive Order on Improving the Nation's Cybersecurity,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a639/1Eo5OHuuRQ4,2022,MSR
+Evaluating the effectiveness of local explanation methods on source code-based defect prediction models,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a640/1Eo5QDD4S52,2022,MSR
+Problems and Solutions in Applying Continuous Integration and Delivery to 20 Open-Source Cyber-Physical Systems,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a646/1Eo5YfGznDa,2022,MSR
+To Type or Not to Type? A Systematic Comparison of the Software Quality of JavaScript and TypeScript Applications on GitHub,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a658/1Eo5QZj7wYw,2022,MSR
+Using Bandit Algorithms for Selecting Feature Reduction Techniques in Software Defect Prediction,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a670/1Eo5QNa3ITm,2022,MSR
+Constructing Dataset of Functionally Equivalent Java Methods Using Automated Test Generation Techniques,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a682/1Eo5ZGSScQ8,2022,MSR
+Extracting Corrective Actions from Code Repositories,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a687/1Eo5TFTFGW4,2022,MSR
+Code Review Practices for Refactoring Changes: An Empirical Study on OpenStack,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a689/1Eo5WNRF6Jq,2022,MSR
+Code Review Practices for Refactoring Changes: An Empirical Study on OpenStack,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a689/1Eo5WNRF6Jq,2022,MSR
+A Time Series-Based Dataset of Open-Source Software Evolution,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a702/1Eo5Pr6ePCM,2022,MSR
+A Versatile Dataset of Agile Open Source Software Projects,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a707/1Eo5UJzP6XC,2022,MSR
+FixJS: A Dataset of Bug-fixing JavaScript Commits,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a712/1Eo5VwDACOY,2022,MSR
+LAGOON: An Analysis Tool for Open Source Communities,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a717/1Eo5Ogg8Mak,2022,MSR
+Automatically Prioritizing and Assigning Tasks from Code Repositories in Puzzle Driven Development,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a722/1Eo5Zrc6S52,2022,MSR
+Software Bots in Software Engineering: Benefits and Challenges,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a724/1Eo5Sz7V26Y,2022,MSR
+Bot Detection in GitHub Repositories,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a726/1Eo60MCL7oI,2022,MSR
+GitRank: A Framework to Rank GitHub Repositories,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a729/1Eo5QfpdeRG,2022,MSR
+Maintenance and Evolution: GrimoireLab Graal,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a732/1Eo5YMAkSkM,2022,MSR
+OpenSSL 3.0.0: An exploratory case study,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a735/1Eo5PjCqh5m,2022,MSR
+Quid Pro Quo: An Exploration of Reciprocity in Code Review,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a738/1Eo5Zbe20o0,2022,MSR
+Replicating Data Pipelines with GrimoireLab,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a741/1Eo62UCeBoI,2022,MSR
+A Deep Study of the Effects and Fixes of Server-Side Request Races in Web Applications,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a744/1Eo61ByCzss,2022,MSR
+A Large-scale Dataset of (Open Source) License Text Variants,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a757/1Eo5XmpCcgg,2022,MSR
+Detecting Privacy-Sensitive Code Changes with Language Modeling,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a762/1Eo5VnQAN56,2022,MSR
+SECOM: Towards a convention for security commit messages,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a764/1Eo5Tyf4nsc,2022,MSR
+Varangian: A Git Bot for Augmented Static Analysis,https://www.computer.org/csdl/proceedings-article/msr/2022/930300a766/1Eo5NYI8iB2,2022,MSR
+A Selection Model of Privacy Patterns,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a001/1MBRGNedIRy,2023,ICSA
+Feature-based software architecture analysis to identify safety and security interactions,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a012/1MBRI5XXPHi,2023,ICSA
+A Pattern-Oriented Reference Architecture for Governance-Driven Blockchain Systems,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a023/1MBRGFlI40w,2023,ICSA
+Performance Modeling and Analysis of Design Patterns for Microservice Systems,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a035/1MBRHnCz9Oo,2023,ICSA
+From monolithic to microservice architecture: an automated approach based on graph clustering and combinatorial optimization,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a047/1MBRHC1zd1m,2023,ICSA
+Quality Metrics in Software Architecture,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a058/1MBRIOGm17q,2023,ICSA
+Standardisation in Digital Twin Architectures in Manufacturing,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a070/1MBRGsBKp0Y,2023,ICSA
+Access Control Enforcement Architectures for Dynamic Manufacturing Systems,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a082/1MBRGVjvkzu,2023,ICSA
+Software Architecture for IoT-based Indoor Positioning Systems for Ambient Assisted Living,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a093/1MBRIV4C2Hu,2023,ICSA
+A Pub/Sub-Based Mechanism for Inter-Component Exception Notification in Android Applications,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a105/1MBRGyS3EXe,2023,ICSA
+The beauty of software architecture,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a117/1MBRIpD6Zmo,2023,ICSA
+"Where and What do Software Architects blog? : An Exploratory Study on Architectural Knowledge in Blogs, and their Relevance to Design Steps",https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a129/1MBRIDasQZa,2023,ICSA
+Detecting Inconsistencies in Software Architecture Documentation Using Traceability Link Recovery,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a141/1MBRHJQFGjC,2023,ICSA
+Architecting Digital Twins Using a Domain-Driven Design-Based Approach*,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a153/1MBRH6T5hoA,2023,ICSA
+An Integrated Approach to Package and Class Code- to-Architecture Mapping Using InMap,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a164/1MBRI0644WA,2023,ICSA
+A Recommender System for Recovering Relevant JavaScript Packages from Web Repositories,https://www.computer.org/csdl/proceedings-article/icsa/2023/974900a175/1MBRIk74lCE,2023,ICSA
+Understanding the Time to First Response in GitHub Pull Requests,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a001/1OIL32zJNeg,2023,MSR
+Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a012/1OIKW6JEu52,2023,MSR
+Improving Agile Planning for Reliable Software Delivery,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a025/1OIL4tvzSTu,2023,MSR
+Characterizing and Understanding Software Security Vulnerabilities in Machine Learning Libraries,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a027/1OIL5dnMAdW,2023,MSR
+AutoML from Software Engineering Perspective: Landscapes and Challenges,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a039/1OIKXNqvTsk,2023,MSR
+DeepScenario: An Open Driving Scenario Dataset for Autonomous Driving System Testing,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a052/1OIKVZJmd4k,2023,MSR
+PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a057/1OIKWZ6GGPe,2023,MSR
+NICHE: A Curated Dataset of Engineered Machine Learning Projects in Python,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a062/1OIL57pVfJS,2023,MSR
+Evaluating Software Documentation Quality,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a067/1OIKZbvehXi,2023,MSR
+What Do Users Ask in Open-Source AI Repositories? An Empirical Study of GitHub Issues,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a079/1OIKWH0ClEc,2023,MSR
+Picaso: Enhancing API Recommendations with Relevant Stack Overflow Posts,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a092/1OIL4nVQssU,2023,MSR
+GIRT-Data: Sampling GitHub Issue Report Templates,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a104/1OIKZ5ikdzO,2023,MSR
+TypeScript’s Evolution: An Analysis of Feature Adoption Over Time,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a109/1OIL3LQtroc,2023,MSR
+"DGMF: Fast Generation of Comparable, Updatable Dependency Graphs for Software Repositories",https://www.computer.org/csdl/proceedings-article/msr/2023/118400a115/1OIKXpxmYJG,2023,MSR
+Enabling Analysis and Reasoning on Software Systems through Knowledge Graph Representation,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a120/1OIL2Dv4LOU,2023,MSR
+microSecEnD: A Dataset of Security-Enriched Dataflow Diagrams for Microservice Applications,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a125/1OIKWMLZkpq,2023,MSR
+Wasmizer: Curating WebAssembly-driven Projects on GitHub,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a130/1OIKYda39AY,2023,MSR
+Feature Toggle Usage Patterns: A Case Study on Google Chromium,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a142/1OIKZWvPvxK,2023,MSR
+On Codex Prompt Engineering for OCL Generation: An Empirical Study,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a148/1OIL44J5bOg,2023,MSR
+Cross-Domain Evaluation of a Deep Learning-Based Type Inference System,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a158/1OIL21ReQms,2023,MSR
+Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a170/1OIL5uDCJt6,2023,MSR
+Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a183/1OIL3XBYxG0,2023,MSR
+An Empirical Study of High Performance Computing (HPC) Performance Bugs,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a194/1OIKVMBPQhq,2023,MSR
+What Happens When We Fuzz? Investigating OSS-Fuzz Bug History,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a207/1OIL51PCD3a,2023,MSR
+Semantically-enriched Jira Issue Tracking Data,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a218/1OIL0f408Ba,2023,MSR
+HasBugs - Handpicked Haskell Bugs,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a223/1OIKXgtUps4,2023,MSR
+An Empirical Study on the Performance of Individual Issue Label Prediction,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a228/1OIKWrE0x7G,2023,MSR
+Investigating the Resolution of Vulnerable Dependencies with Dependabot Security Updates,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a234/1OIKYryu0xO,2023,MSR
+Unveiling the Relationship Between Continuous Integration and Code Coverage,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a247/1OIKXvHIEWA,2023,MSR
+EGAD: A moldable tool for GitHub Action analysis,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a260/1OIKY4xQ4Ny,2023,MSR
+"The Atlassian Data Lake: consolidating enriched software development data in a single, queryable system",https://www.computer.org/csdl/proceedings-article/msr/2023/118400a265/1OIKXaLnpZu,2023,MSR
+Are We Speeding Up or Slowing Down? On Temporal Aspects of Code Velocity,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a267/1OIKWT4hMg8,2023,MSR
+Energy Consumption Estimation of API-usage in Smartphone Apps via Static Analysis,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a272/1OIL0ATYL2U,2023,MSR
+Do Subjectivity and Objectivity Always Agreeƒ A Case Study with Stack Overflow Questions,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a389/1OIL09gDXVu,2023,MSR
+GiveMeLabeledIssues: An Open Source Issue Recommendation System,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a402/1OIKYDZZK5a,2023,MSR
+DocMine: A Software Documentation-Related Dataset of 950 GitHub Repositories,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a407/1OIL5p5jiGQ,2023,MSR
+"PENTACET data - 23 Million Contextual Code Comments and 250,000 SATD comments",https://www.computer.org/csdl/proceedings-article/msr/2023/118400a412/1OIL1uhsIpi,2023,MSR
+Don’t Forget the Exception! : Considering Robustness Changes to Identify Design Problems,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a417/1OIL2PNMWkg,2023,MSR
+Pre-trained Model Based Feature Envy Detection,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a430/1OIL104SXjG,2023,MSR
+An Exploratory Study on Energy Consumption of Dataframe Processing Libraries,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a284/1OIL0N4K9Us,2023,MSR
+Whistleblowing and Tech on Twitter,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a296/1OIL4yVWy1W,2023,MSR
+UnGoML: Automated Classification of unsafe Usages in Go,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a309/1OIKVCGJ5pC,2023,MSR
+Connecting the .dotfiles: Checked-In Secret Exposure with Extra (Lateral Movement) Steps,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a322/1OIL3zTTZ1S,2023,MSR
+MANDO-HGT: Heterogeneous Graph Transformers for Smart Contract Vulnerability Detection,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a334/1OIL1VeMSha,2023,MSR
+SecretBench: A Dataset of Software Secrets,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a347/1OIL2xdlwek,2023,MSR
+An Empirical Study to Investigate Collaboration Among Developers in Open Source Software (OSS),https://www.computer.org/csdl/proceedings-article/msr/2023/118400a352/1OIL02UEJnW,2023,MSR
+Insights into Female Contributions in Open-Source Projects,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a357/1OIL0r7Xala,2023,MSR
+The Secret Life of CVEs,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a362/1OIKZibEDRu,2023,MSR
+Evolution of the Practice of Software Testing in Java Projects,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a367/1OIL1HAUeEU,2023,MSR
+Keep the Ball Rolling: Analyzing Release Cadence in GitHub Projects,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a372/1OIL2JqFjgs,2023,MSR
+Understanding the Role of Images on Stack Overflow,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a377/1OIKVTEGvsI,2023,MSR
+CLEAN++: Code Smells Extraction for C++,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a441/1OIKXBDSoEg,2023,MSR
+DACOS—A Manually Annotated Dataset of Code Smells,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a446/1OIKX5381EY,2023,MSR
+What Warnings Do Engineers Really Fix? The Compiler That Cried Wolf,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a451/1OIL2VTB2s8,2023,MSR
+Automating Arduino Programming: From Hardware Setups to Sample Source Code Generation,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a453/1OIL4MEEmRi,2023,MSR
+A Dataset of Bot and Human Activities in GitHub,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a465/1OIKWdtLCG4,2023,MSR
+Optimizing Duplicate Size Thresholds in IDEs,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a470/1OIKYkGZiz6,2023,MSR
+Boosting Just-in-Time Defect Prediction with Specific Features of C/C++ Programming Languages in Code Changes,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a472/1OIL3RLdbry,2023,MSR
+A Large Scale Analysis of Semantic Versioning in NPM,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a485/1OIL1dpKtdC,2023,MSR
+Phylogenetic Analysis of Reticulate Software Evolution,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a498/1OIKWAMihCo,2023,MSR
+PyMigBench: A Benchmark for Python Library Migration,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a511/1OIKZQimeU8,2023,MSR
+Determining Open Source Project Boundaries,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a516/1OIKYZedIek,2023,MSR
+Intertwining Communities: Exploring Libraries that Cross Software Ecosystems,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a518/1OIL3ieNxcY,2023,MSR
+"Helm Charts for Kubernetes Applications: Evolution, Outdatedness and Security Risks",https://www.computer.org/csdl/proceedings-article/msr/2023/118400a523/1OIL4ierRwA,2023,MSR
+Control and Data Flow in Security Smell Detection for Infrastructure as Code: Is It Worth the Effort?,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a534/1OIL4cM60tG,2023,MSR
+"Method Chaining Redux: An Empirical Study of Method Chaining in Java, Kotlin, and Python",https://www.computer.org/csdl/proceedings-article/msr/2023/118400a546/1OIL5jnlvuo,2023,MSR
+Snapshot Testing Dataset,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a558/1OIKZAybIAg,2023,MSR
+"Large Language Models and Simple, Stupid Bugs",https://www.computer.org/csdl/proceedings-article/msr/2023/118400a563/1OIL2oA02UE,2023,MSR
+LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a588/1OIL0T2jTgs,2023,MSR
+"Defectors: A Large, Diverse Python Dataset for Defect Prediction",https://www.computer.org/csdl/proceedings-article/msr/2023/118400a593/1OIKYJUJu8w,2023,MSR
+A Study of Gender Discussions in Mobile Apps,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a598/1OIKXYdgPUk,2023,MSR
+Tell Me Who Are You Talking to and I Will Tell You What Issues Need Your Skills,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a611/1OIL5ACU3Bu,2023,MSR
+She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a624/1OIL38YQCcw,2023,MSR
+GitHub OSS Governance File Dataset,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a630/1OIKZukIrWE,2023,MSR
+State of Refactoring Adoption: Better Understanding Developer Perception of Refactoring,https://www.computer.org/csdl/proceedings-article/msr/2023/118400a635/1OIL16FDkCA,2023,MSR
