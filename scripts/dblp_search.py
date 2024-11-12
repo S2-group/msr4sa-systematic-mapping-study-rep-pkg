@@ -7,8 +7,7 @@ KEYWORDS = ['ROS']
 VENUES = tuple([
     'conf/msr',
     'conf/icsa',
-    'conf/ecsa',
-    'conf/icse'
+    'conf/ecsa'
 ])
 
 def iterate_xml(xmlfile):
