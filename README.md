@@ -18,7 +18,8 @@ The directory is structured as follows:
 
 ```
 scripts/dblp_search.py          Script for initial paper crawling.
-data/studies_selection.csv      Spreadsheet with the all the studies.
+data/starting_set.csv           Spreadsheet with the first studies.
+data/snowballing.csv            Spreadsheet with the papers from snowballing.
 data/thematic_analysis.csv      Spreadsheet with the thematic analysis.
 data/system_names.csv           Spreadsheet with the list of systems.
 data/graph_generation.xlsx      Spreadsheet used for graph generation.
