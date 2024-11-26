@@ -1,6 +1,6 @@
 # MSR Approaches for Software Architecture – a Systematic Mapping Study
 
-This is the replication package of the systematic literature review submited to the IST journal (**under review**). The reposiroty contains all the material required for replicating the study, including: a complete list of papers, and all the data analysis phases.
+This is the replication package of the systematic literature review submitted to the IST journal (**under review**). The repository contains all the material required for replicating the study, including a complete list of papers, and all the data analysis phases.
 
 It has been designed, performed, and reported by the following researchers:
 
@@ -47,7 +47,7 @@ Once everything is set, you run the `dblp_search.py` script, and the papers shou
 $ python3 dblp_search.py > papers.csv
 ```
 
-The snowballing was manually conducted, assisted with the [Zotero](https://www.zotero.org/) tool.
+The snowballing was manually conducted and assisted with the [Zotero](https://www.zotero.org/) tool.
 
 ----
 
