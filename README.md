@@ -7,7 +7,7 @@ It has been designed, performed, and reported by the following researchers:
 ```
 - Mohamed Soliman - Paderborn University, Paderborn, Germany
 - Ivano Malavolta - Vrije Universiteit Amsterdam, S2Group - The Netherlands
-- Michel Albonic - Federal University of Technology, Paraná, IntelAgir - Brazil
+- Michel Albonico - Federal University of Technology, Paraná, IntelAgir - Brazil
 - Andreas Wortmann - University of Stuttgart, ISW - Germany
 ```
 
