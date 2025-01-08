@@ -28,6 +28,7 @@ data/snowballing.csv            Spreadsheet with the papers from snowballing.
 data/thematic_analysis.csv      Spreadsheet with the thematic analysis.
 data/system_names.csv           Spreadsheet with the list of systems.
 data/graph_generation.xlsx      Spreadsheet used for graph generation.
+Petersen - SMS checklist.pdf    Calculation of the quality score of this study according to Petersen et al.
 ```
 
 The spreadsheet for graph generation is also available [online](https://docs.google.com/spreadsheets/d/1VIQ__Gc9DMExdK1WsOcTba9L-RM6OdnHXr5lc-DzC2Y/edit?usp=sharing).
