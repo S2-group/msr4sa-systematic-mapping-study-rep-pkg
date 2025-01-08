@@ -1,6 +1,6 @@
 # MSR Approaches for Software Architecture – a Systematic Mapping Study
 
-[![DOI](https://zenodo.org/badge/637924456.svg)](https://doi.org/10.5281/zenodo.14614348)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14614882.svg)](https://doi.org/10.5281/zenodo.14614882)
 
 This is the replication package of the systematic mapping study on MSR approaches for software architecture published in the Information and Software Technology journal in 2025. 
 The title of the study is "_Mining Software Repositories for Software Architecture – a Systematic Mapping Study_". 
