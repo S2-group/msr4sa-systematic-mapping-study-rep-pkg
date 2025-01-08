@@ -2,9 +2,10 @@
 
 This is the replication package of the systematic mapping study on MSR approaches for software architecture published in the Information and Software Technology journal in 2025. 
 The title of the study is "_Mining Software Repositories for Software Architecture – a Systematic Mapping Study_". 
+
 The repository contains all the material required for replicating the study, including a complete list of papers, and all the data analysis phases.
 
-It has been designed, performed, and reported by the following researchers:
+The study has been designed, performed, and reported by the following researchers:
 
 ```
 - Mohamed Soliman - Paderborn University, Paderborn, Germany
