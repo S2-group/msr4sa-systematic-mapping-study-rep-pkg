@@ -1,17 +1,19 @@
 # MSR Approaches for Software Architecture – a Systematic Mapping Study
 
-This is the replication package of the systematic literature review submitted to the IST journal (**under review**). The repository contains all the material required for replicating the study, including a complete list of papers, and all the data analysis phases.
+This is the replication package of the systematic mapping study on MSR approaches for software architecture published in the Information and Software Technology journal. 
+The title of the study is "_Mining Software Repositories for Software Architecture – a Systematic Mapping Study_". 
+The repository contains all the material required for replicating the study, including a complete list of papers, and all the data analysis phases.
 
 It has been designed, performed, and reported by the following researchers:
 
 ```
 - Mohamed Soliman - Paderborn University, Paderborn, Germany
-- Ivano Malavolta - Vrije Universiteit Amsterdam, S2Group - The Netherlands
 - Michel Albonico - Federal University of Technology, Paraná, IntelAgir - Brazil
+- Ivano Malavolta - Vrije Universiteit Amsterdam, S2 Group - The Netherlands
 - Andreas Wortmann - University of Stuttgart, ISW - Germany
 ```
 
-For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
+For any information, interested researchers can email any of the investigators listed above.
 
 ## Repository Structure
 The directory is structured as follows:
